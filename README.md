@@ -80,18 +80,7 @@ This project is a **multi-page interactive Power BI dashboard** built for compre
 - Advanced Tooltips & Drill-through in Power BI
 - Business Intelligence Reporting
 ---
- 
-## 📥 Download Project File
- 
-> The `.pbix` file is hosted on Google Drive due to file size.
- 
-👉 **[Click here to download the Power BI Dashboard file](YOUR_GOOGLE_DRIVE_LINK)**
- 
-| File | Description |
-|------|-------------|
-| `finance_db01.pbix` | Main Power BI Financial Analysis Dashboard |
- 
----
+
  
 ## 🚀 How to Open This Project
  
